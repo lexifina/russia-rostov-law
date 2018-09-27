@@ -1,0 +1,8 @@
+# О внесении изменений в Областной закон «О капитальном ремонте общего имущества в многоквартирных домах на территории Ростовской области»
+Document type: Областной закон
+Number: 3-ЗС
+Date signed: 2018-09-26
+Publication date: 2018-09-27
+Publication number: 6100201809270001
+Signing body: Ростовская область
+Official publication page: http://publication.pravo.gov.ru/Document/View/6100201809270001
