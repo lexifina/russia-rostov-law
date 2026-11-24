@@ -1,0 +1,29 @@
+{
+ "sources": [
+  {
+   "id": "pravo-rostov",
+   "kind": "legislation",
+   "name": {
+    "en": "Rostov Oblast: Official Internet Portal of Legal Information (region61)",
+    "ru": "Rostov Oblast: Официальный интернет-портал правовой информации (region61)"
+   },
+   "url": "http://publication.pravo.gov.ru/documents/block/region61",
+   "reads": {
+    "en": "every page of the subject's law-type documents (metadata API), each check",
+    "ru": "все страницы списка законов субъекта (API метаданных), при каждой проверке"
+   },
+   "folders": [
+    "zakony-<year>/"
+   ],
+   "schedule": "daily",
+   "state": "watched",
+   "corpora": [
+    "russia/rostov/acts"
+   ],
+   "interval": 3.2,
+   "repo": "russia-rostov-law",
+   "group": "pravo",
+   "tz": "Europe/Moscow"
+  }
+ ]
+}
