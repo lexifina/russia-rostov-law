@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T06:11:19Z",
+ "generated": "2026-11-28T06:25:38Z",
  "latest": {
   "pravo-rostov|russia/rostov/acts": {
    "attempt": 1,
@@ -21,11 +21,11 @@
     "repo": 2650,
     "source_in_scope": 2650
    },
-   "check_id": "ru-pravo-rostov-20261127T054828Z",
+   "check_id": "ru-pravo-rostov-20261128T055748Z",
    "commits": null,
    "corpus": "russia/rostov/acts",
    "error": null,
-   "finished": "2026-11-27T05:49:27Z",
+   "finished": "2026-11-28T05:59:12Z",
    "flags": [],
    "gap": 0,
    "note": "publication.pravo.gov.ru, block region61: 2650 law-type documents listed (every page read); 2650 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
@@ -45,7 +45,7 @@
    },
    "snapshot": "2650 law-type documents in block region61; newest published 2026-11-25",
    "source": "pravo-rostov",
-   "started": "2026-11-27T05:48:28Z",
+   "started": "2026-11-28T05:57:48Z",
    "unexplained": 0,
    "update": {
     "parts": []
